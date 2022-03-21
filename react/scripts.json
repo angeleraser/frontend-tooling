@@ -1,0 +1,7 @@
+{
+	"scripts": {
+		"lint": "eslint \"**/*.{ts,tsx,js,jsx}\"",
+		"prepare": "husky install",
+		"test": "react-scripts test"
+	}
+}
